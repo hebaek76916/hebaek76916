@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eun.
 - 👀 I’m interested in Swift.
 - 🌱 I’m currently learning Swift
-- 💁 I’m looking to collaborate on python
 - 📫 How to reach me qorgusdms15@gmail.com
 - 
 <!---
